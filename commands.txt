@@ -5,3 +5,4 @@ git commit -m"your mesesage"=>from staging to local repository
 gti log=>to know what all work we have done
 git push=>to remote repo
 git clone=>from remote repo to lws
+git remote add name remote_path
