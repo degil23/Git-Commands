@@ -1,3 +1,5 @@
 git init=>git initialization
 git status=>to track all untracked file
-
+git add -A=>to add to staging area
+git commit -m"your mesesage"=>from staging to local repository
+gti log=>to know what all work we have done
