@@ -7,3 +7,4 @@ git push=>to remote repo
 git clone=>from remote repo to lws
 git remote add name remote_path
 ading new fille name degoil
+adding a new filea that named degil
