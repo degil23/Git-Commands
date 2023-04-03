@@ -6,3 +6,4 @@ gti log=>to know what all work we have done
 git push=>to remote repo
 git clone=>from remote repo to lws
 git remote add name remote_path
+ading new fille name degoil
